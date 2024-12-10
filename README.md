@@ -4,8 +4,6 @@ Example/Test authentication flow in a React Native, Expo Application using Bette
 
 # Run Locally
 
-# Run Locally
-
 ### Pre-requisites
 
 - Node.js
