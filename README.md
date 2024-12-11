@@ -1,6 +1,6 @@
 # Expo Better Auth Example
 
-Example/Test authentication flow in a React Native, Expo Application using Better Auth, NeonDB (PostGreSQL) and Drizzle.
+Example/Test authentication flow in a React Native, Expo Application using Better Auth, NeonDB PostgreSQL and Drizzle ORM.
 
 # Run Locally
 
